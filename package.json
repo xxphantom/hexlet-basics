@@ -1,0 +1,23 @@
+{
+  "name": "hexlet-basics",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxphantom/hexlet-basics.git"
+  },
+  "author": "Dmitriy Gerasimov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xxphantom/hexlet-basics/issues"
+  },
+  "homepage": "https://github.com/xxphantom/hexlet-basics#readme",
+  "dependencies": {
+    "eslint": "^6.8.0",
+    "small_talk_with_hexlet": "^1.0.0"
+  }
+}
